@@ -1,0 +1,50 @@
+C:\Users\Nick\source\repos\Test-task\Test-task\bin\Debug\net6.0\Test-task.exe
+C:\Users\Nick\source\repos\Test-task\Test-task\bin\Debug\net6.0\Test-task.deps.json
+C:\Users\Nick\source\repos\Test-task\Test-task\bin\Debug\net6.0\Test-task.runtimeconfig.json
+C:\Users\Nick\source\repos\Test-task\Test-task\bin\Debug\net6.0\Test-task.dll
+C:\Users\Nick\source\repos\Test-task\Test-task\bin\Debug\net6.0\Test-task.pdb
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.AssemblyInfo.cs
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.dll
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\refint\Test-task.dll
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.pdb
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\Test-task.genruntimeconfig.cache
+C:\Users\Nick\source\repos\Test-task\Test-task\obj\Debug\net6.0\ref\Test-task.dll
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\bin\Debug\net6.0\Test-task.exe
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\bin\Debug\net6.0\Test-task.deps.json
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\bin\Debug\net6.0\Test-task.runtimeconfig.json
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\bin\Debug\net6.0\Test-task.dll
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\bin\Debug\net6.0\Test-task.pdb
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.AssemblyInfo.cs
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.dll
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\refint\Test-task.dll
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.pdb
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.genruntimeconfig.cache
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\ref\Test-task.dll
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Nick\source\repos\Test-task — копия\Test-task\obj\Debug\net6.0\Test-task.csproj.CopyComplete
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\Test-task.exe
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\Test-task.deps.json
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\Test-task.runtimeconfig.json
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\Test-task.dll
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\Test-task.pdb
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.csproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.AssemblyInfo.cs
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.csproj.CopyComplete
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.dll
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\refint\Test-task.dll
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.pdb
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\Test-task.genruntimeconfig.cache
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\obj\Debug\net6.0\ref\Test-task.dll
+C:\Users\Nick\Desktop\Warehouse-application-main\Test-task\Test-task\bin\Debug\net6.0\Newtonsoft.Json.dll
